@@ -3,7 +3,7 @@
 Juego web indie minimalista hecho con JavaScript puro y Canvas.
 Esquiva los bloques que caen y sobrevive el mayor tiempo posible.
 
-**Jugar en línea:** https://a23311053.github.io/neon-dodge/
+**Jugar en línea:** https://a23311053.github.io/neon-dodge.github.io/
 
 **Autor:** Ramon Viera Salas · Grupo IDGS7-2 · Hermosillo, Sonora
 
@@ -57,8 +57,8 @@ neon-dodge/
 
 ### Cómo ejecutarlo localmente
 ```bash
-git clone https://github.com/a23311053/neon-dodge.git
-cd neon-dodge
+git clone https://github.com/a23311053/neon-dodge.github.io.git
+cd neon-dodge.github.io
 # abrir index.html en el navegador
 ```
 
