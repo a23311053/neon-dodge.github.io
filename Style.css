@@ -1,0 +1,12 @@
+:root { --bg: #07070f; --fg: #d8f9ff; --accent: #00f0ff; }
+@media (prefers-color-scheme: light) { :root { --bg: #07070f; } }
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg);
+  font-family: "Courier New", monospace; }
+main { min-height: 100%; display: flex; flex-direction: column; align-items: center;
+  justify-content: center; gap: 12px; padding: 12px; }
+h1 { margin: 0; font-size: 1.6rem; letter-spacing: 2px; color: var(--accent);
+  text-shadow: 0 0 12px var(--accent); }
+canvas { width: min(100%, 400px); height: auto; aspect-ratio: 2 / 3;
+  border: 2px solid var(--accent); box-shadow: 0 0 24px #00f0ff55; touch-action: none; }
+.help { margin: 0; font-size: .8rem; opacity: .7; text-align: center; max-width: 400px; }
