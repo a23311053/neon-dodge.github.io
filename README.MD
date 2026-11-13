@@ -66,7 +66,7 @@ cd neon-dodge.github.io
 Settings → Pages → Branch: `main` → carpeta `/ (root)` → Save
 
 ### Video explicativo
-Enlace: *(pega aquí tu link)*
+Enlace: 
 
 ### Licencia
 MIT: código libre para usar y modificar.
